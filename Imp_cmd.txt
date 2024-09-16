@@ -10,7 +10,7 @@ pip install apache-airflow --break-system-packages
 airflow standalone
 
 username: admin 
-password: 8HxEWqxuFRvfwHYt
+password: xxxxxxxxx
 
 
 pip install awscli --break-system-packages
